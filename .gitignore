@@ -1,0 +1,9 @@
+/.idea/
+/out/
+/target/
+/src/main/resources/properties/db.properties
+/.settings/
+/src/main/resources/properties/client.conf
+/src/main/resources/properties/resource.properties
+/nanshan.iml
+
